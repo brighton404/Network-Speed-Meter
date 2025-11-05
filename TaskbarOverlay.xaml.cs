@@ -18,7 +18,7 @@ namespace TaskbarSpeedMeter
             InitializeComponent();
             Loaded += OnLoaded;
 
-            timer.Interval = TimeSpan.FromSeconds(0.5);
+            timer.Interval = TimeSpan.FromSeconds(0.5); /* half a second updates */
             timer.Tick += (_, __) => UpdateSpeed();
         }
 

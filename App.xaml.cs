@@ -41,7 +41,7 @@ namespace TaskbarSpeedMeter
 
             trayIcon = new NotifyIcon
             {
-                Icon = new Icon("Assets/speedmeter.ico"), // you can replace with a custom .ico later
+                Icon = new Icon("Assets/speedmeter.ico"), // you can replace with a custom icon
                 Visible = true,
                 Text = "Taskbar Speed Meter"
             };
