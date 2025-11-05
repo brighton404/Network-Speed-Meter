@@ -8,7 +8,7 @@ A light, draggable Windows Network overlay.
 
 ## Features
 
-- Real-time upload/download speed monitoring (0.5s updates)
+- Real-time upload/download speed monitoring
 - Translucent overlay that floats above the Windows taskbar  
 - Tray icon for quick Show/Hide and Exit options
 - Built with **.NET 9 WPF**
@@ -17,5 +17,5 @@ A light, draggable Windows Network overlay.
 
 ### Prerequisites
 
-- [**.NET SDK 8.0 or later**](https://dotnet.microsoft.com/download)
+- You need to install [**.NET SDK 8.0 or later**](https://dotnet.microsoft.com/download)
 - Windows 10 or 11  
