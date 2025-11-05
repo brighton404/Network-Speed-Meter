@@ -1,0 +1,89 @@
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.appx
+*.msix
+*.msi
+
+# Visual Studio Code settings
+.vscode/
+
+# Visual Studio settings 
+.vs/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Publish output
+publish/
+dist/
+artifacts/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.cache
+
+# Local app data
+*.db
+*.sqlite
+*.sqlite3
+
+# Rider / JetBrains IDE
+.idea/
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Windows thumbnails
+Thumbs.db
+ehthumbs.db
+
+
+# Installer artifacts
+SetupProject/
+*.wixobj
+*.wixpdb
+*.msi
+*.cab
+
+# Auto-generated metadata
+*.csproj.user
+*.publishsettings
+
+# Secrets or user-specific config
+appsettings.Development.json
+*.env
+.env.local
+
+# Package restore folders
+packages/
+.nuget/
+*.nupkg
+*.snupkg
+
+# Cache directories
+**/obj/
+**/bin/
+**/logs/
+**/temp/
+
+# Dotnet user secrets
+secrets.json
+
+# JetBrains Rider & ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows crash dumps
+*.dmp
